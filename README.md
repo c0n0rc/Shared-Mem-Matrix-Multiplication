@@ -1,4 +1,4 @@
-# Shared-Mem-Matrix-Multiplication
+# Shared Memory Matrix Multiplication
 
 To run:
 ```bash
